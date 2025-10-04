@@ -1,0 +1,5 @@
+{
+  "name": "Story Prompt Generator",
+  "description": "An application to generate prompts for creating story images and videos, inspired by trending cat stories. Users can input a story idea, and the app generates prompts for characters, locations, and scenes.",
+  "requestFramePermissions": []
+}
